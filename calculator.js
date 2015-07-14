@@ -10,8 +10,8 @@ var calc =
   },
 
  avg: function(arrayNum){
-    var sum = arrayNum[0];
-    for ( var i=0; i<arrayNum.length; i++){
+    var sum = 0;
+    for ( var i = 0; i < arrayNum.length; i++){
        sum += arrayNum[i];
     }
     return sum/arrayNum.length;
