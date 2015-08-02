@@ -1,1 +1,3 @@
-This repo hosts calculator functions.
+##Calculator
+
+This repo contains average and max number calculator functions.
